@@ -1,0 +1,25 @@
+{
+  "name": "comp308-lesson2",
+  "version": "1.0.0",
+  "description": "Connect Server Demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jason-Pearson/comp308-lesson2.git"
+  },
+  "keywords": [
+    "Connect",
+    "NodeJS",
+    "JavaScript"
+  ],
+  "author": "Jason Pearson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jason-Pearson/comp308-lesson2/issues"
+  },
+  "homepage": "https://github.com/Jason-Pearson/comp308-lesson2#readme"
+}
