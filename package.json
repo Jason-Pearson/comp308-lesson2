@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Jason-Pearson/comp308-lesson2/issues"
   },
-  "homepage": "https://github.com/Jason-Pearson/comp308-lesson2#readme"
+  "homepage": "https://github.com/Jason-Pearson/comp308-lesson2#readme",
+  "dependencies": {
+    "connect": "^3.5.0"
+  }
 }
